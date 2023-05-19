@@ -1,5 +1,11 @@
 # developer-marketing-resources
 
+# contents
+
+- [blog posts](#blog-posts)
+- [books](#books)
+- [podcasts](#podcasts)
+
 ## blog posts
 
 - [Developer 'Marketing'](https://helenmin.com/blog/marketing-to-developers)
@@ -14,7 +20,7 @@
 
 - [Everything Is Marketing feat. Adam DuVanter -- Developer Marketing & The DEV Content Framework](https://share.transistor.fm/s/88a48277)
 
-## further inspiration
+# further inspiration
 
-- [Developer Marketing Slack Community](https://marketingto.dev/)
+- [Developer Marketing on Slack](https://marketingto.dev/)
 - [Developer Marketing on Twitter](https://twitter.com/i/lists/1647975061150728195)
