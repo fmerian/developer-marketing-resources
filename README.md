@@ -16,5 +16,5 @@
 
 ## further inspiration
 
--- [Developer Marketing Slack Community](https://marketingto.dev/)
--- [Developer Marketing on Twitter](https://twitter.com/i/lists/1647975061150728195)
+- [Developer Marketing Slack Community](https://marketingto.dev/)
+- [Developer Marketing on Twitter](https://twitter.com/i/lists/1647975061150728195)
