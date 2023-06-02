@@ -14,6 +14,7 @@
 - [Developer marketing for early-stage startups](https://posthog.com/blog/dev-marketing-for-startups)
 - [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch)
 - [Email marketing to developers](https://ronakganatra.com/email-marketing-to-developers)
+- [Launching developer tools on Product Hunt](https://ronakganatra.com/successfully-launch-dev-tools-on-producthunt)
 
 ## books
 
