@@ -13,6 +13,7 @@
 - [How to run PPC for developer-focused products](https://www.poweredbysearch.com/blog/ppc-for-developers/)
 - [Developer marketing for early-stage startups](https://posthog.com/blog/dev-marketing-for-startups)
 - [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch)
+- [Email marketing to developers](https://ronakganatra.com/email-marketing-to-developers)
 
 ## books
 
