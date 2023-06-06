@@ -23,7 +23,17 @@
 
 ## podcasts
 
+### selected episodes
+
 - [Everything Is Marketing feat. Adam DuVanter -- Developer Marketing & The DEV Content Framework](https://share.transistor.fm/s/88a48277)
+
+### sources
+
+- [Scaling DevTools](https://podcast.scalingdevtools.com/)
+- [Open Source Startup](https://podcasters.spotify.com/pod/show/ossstartuppodcast)
+- [Software Snack Bits](https://shomik.substack.com/podcast)
+- [DevRelX](https://www.devrelx.com/podcast)
+- [Developer-led](https://www.crowd.dev/blog/developer-led)
 
 # further inspiration
 
