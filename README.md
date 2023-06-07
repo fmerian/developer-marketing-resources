@@ -15,7 +15,7 @@
 - [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch)
 - [Email marketing to developers](https://ronakganatra.com/email-marketing-to-developers)
 - [Launching developer tools on Product Hunt](https://ronakganatra.com/successfully-launch-dev-tools-on-producthunt)
-- [Introduction to DEV Content Framework](https://fmerian.medium.com/an-introduction-to-the-dev-content-framework-dde5364d99af)
+- [Introduction to the DEV Content Framework](https://fmerian.medium.com/an-introduction-to-the-dev-content-framework-dde5364d99af)
 
 ## books
 
