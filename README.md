@@ -27,6 +27,7 @@
 
 - [Everything Is Marketing feat. Adam DuVanter -- Developer Marketing & The DEV Content Framework](https://share.transistor.fm/s/88a48277)
 - [DevRelX feat. Vera Tiago -- Between the developers and the business](https://www.devrelx.com/podcast/episode/3e73a3f2/between-the-developers-and-the-business-with-vera-tiago)
+- [Developer-led feat. Natwar Maheshwari (Algolia) -- How is marketing to developers different?](https://www.crowd.dev/post/how-is-marketing-to-developers-different-with-natwar-maheshwari-algolia)
 
 ### sources
 
